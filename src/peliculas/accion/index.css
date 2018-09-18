@@ -1,0 +1,13 @@
+
+.accion-header {
+  background-color: #445;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.accion-title {
+  font-size: 2em;
+  text-align: center;
+
+}
